@@ -1,0 +1,19 @@
+{
+  "name": "webdb-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "repository": "https://github.com/Nathan-Culver/webdb-challenge.git",
+  "author": "Nathan <s6nculve@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.18.0",
+    "knex-cleaner": "^1.1.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1",
+    "sqlite3": "^4.0.9"
+  }
+}
